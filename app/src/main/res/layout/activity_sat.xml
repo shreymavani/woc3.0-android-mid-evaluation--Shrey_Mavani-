@@ -30,7 +30,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginStart="25sp"
                 android:layout_marginLeft="25sp"
-                android:paddingTop="200sp"
+                android:paddingTop="190sp"
                 android:text="@string/slot1" />
 
             <TextView
