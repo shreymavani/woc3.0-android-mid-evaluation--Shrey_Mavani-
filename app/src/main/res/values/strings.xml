@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Time-Table</string>
+    <string name="Heading">Lecture Time-Table</string>
+    <string name="Mon">Monday</string>
+    <string name="Tue">Tuesday</string>
+    <string name="Wed">Wednesday</string>
+    <string name="Thu">Thursday</string>
+    <string name="Fri">Friday</string>
+    <string name="Sat">Saturday</string>
+    <string name="slot1">8:30 - 9:45</string>
+    <string name="slot2">10:15 - 11:30</string>
+    <string name="slot3">12:00 - 1:15</string>
+    <string name="tut">2:00 - 3:00</string>
+    <string name="Lab1">8:30 - 12:30</string>
+    <string name="Lab2">1:30 - 5:30</string>
+    <string name="IT215">IT215        Sec A/B - JP/SB       3-0-3-4.5</string>
+    <string name="CT215">CT215        Sec A/B - DK/SG       3-0-2-4</string>
+    <string name="SC209">SC209        Sec A/B - RG          2-0-0-2</string>
+    <string name="SC221">SC221        Sec A/B - AKR         3-0-0-3</string>
+    <string name="EL213">EL213        Sec A/B - RP/TKM      3-0-3-4.5</string>
+    <string name="SC222">SC222        Sec A/B - GG/MS       3-1-0-4</string>
+    <string name="CS201">CS201        Sec A/B - AR          3-0-3-4.5</string>
+    <string name="Free">No Lecture</string>
+    <string name="Lab">IT215    JB/SB</string>
+    <string name="free">No Tut</string>
+</resources>
